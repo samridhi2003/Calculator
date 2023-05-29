@@ -1,5 +1,6 @@
 {
   "name": "calculator",
+  "homepage": "https://samridhi2003.github.io/calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
